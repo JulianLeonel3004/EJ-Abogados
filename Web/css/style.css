@@ -24,7 +24,11 @@ h5,
 h6 {
   color: #1e1e1e;
 }
-  
+  .servis{
+    width: 70em;
+     height: auto;  
+     font-family: "Raleway", sans-serif;   
+  }
 
 a {
   color: #1e1e1e;
