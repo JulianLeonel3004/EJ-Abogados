@@ -27,7 +27,12 @@ h6 {
   .servis{
     width: 70em;
      height: auto;  
-     font-family: "Raleway", sans-serif;   
+     font-family: "Raleway", sans-serif;  
+     font-size:  
+  }
+  .servis img {
+     height: 12em;
+     width: auto;
   }
 
 a {
