@@ -1308,3 +1308,9 @@ display: block;
     bottom: 15px;
   }
 }
+
+@media (min-width: 360px) and  (max-width: 640px){
+  iframe{
+    width: 328px;
+  }
+}
