@@ -1314,3 +1314,11 @@ display: block;
     width: 328px;
   }
 }
+
+.space{
+  margin:10px;
+}
+
+.max{
+  width: 300px;
+}
