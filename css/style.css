@@ -1324,7 +1324,7 @@ display: block;
 }
 
 /*@media (min-width: 768px){*/
-  .navbar-expand-md .navbar-nav .nav-link{
+  .nav-link{
     padding: 0!important;
   }
 /* } */
