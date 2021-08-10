@@ -1325,7 +1325,7 @@ display: block;
 
 /*@media (min-width: 768px){*/
   .navbar-expand-md .navbar-nav .nav-link{
-    padding-right: 0!important;
+    padding: 0!important;
   }
 /* } */
 
